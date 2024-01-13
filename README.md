@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stevie
-- 👀 I’m interested in Software Development, Game Development, and cats
+- 👀 I’m interested in Software Development, Game Development, cats, DnD, video games, and imrov comedy
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
